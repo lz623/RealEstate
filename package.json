@@ -1,0 +1,23 @@
+{
+  "name": "apify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "apify": "^0.22.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuchenZhangU/Real_Estate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuchenZhangU/Real_Estate/issues"
+  },
+  "homepage": "https://github.com/YuchenZhangU/Real_Estate#readme"
+}
